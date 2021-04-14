@@ -1,5 +1,5 @@
 # Name: Dusty Stepak
-# Date: 02.17.2021
+# Date: 04.14.2021
 # Program: ORF.py
 # Purpose: Finds the Open Reading Frame of a given sequence
 
